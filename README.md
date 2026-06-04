@@ -62,7 +62,7 @@ pip install requests opencv-python numpy mtcnn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/group-emotion-dataset-collector.git
+git clone https://github.com/Nour0011/group-emotion-dataset-collector.git
 cd group-emotion-dataset-collector
 ```
 
